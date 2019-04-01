@@ -21,7 +21,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Name:"
+            android:text="Bank Name:"
             android:textSize="26sp" />
         <EditText
             android:layout_width="match_parent"
@@ -41,27 +41,18 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Mobile Number:"
+            android:text="Bank address:"
             android:textSize="26sp" />
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Who R U?"
             android:textSize="26sp"/>
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Blood Group:"
-            android:textSize="26sp" />
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:hint="Who R U?"
-            android:textSize="26sp"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Medical Approves:"
+            android:text="Gov. Approves:"
             android:textSize="26sp" />
         <EditText
             android:layout_width="match_parent"
@@ -72,7 +63,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Add Your Account:"
+            android:text="Add Account:"
             android:textSize="26sp" />
         <EditText
             android:layout_width="match_parent"
